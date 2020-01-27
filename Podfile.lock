@@ -1,0 +1,24 @@
+PODS:
+  - LPLivePhotoGenerator (0.7.0)
+  - Require (2.0.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - LPLivePhotoGenerator
+  - Require
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - LPLivePhotoGenerator
+    - Require
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LPLivePhotoGenerator: 8f0710332a9b03b3f17f11f73bc42234e6735a18
+  Require: f93abc18dda985f665465cf027cea7166455fb28
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 9093a7616f5218ff08917f389558a2c34c7cbeb1
+
+COCOAPODS: 1.8.4

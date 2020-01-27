@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MyAppSaveliyRadchyck/Pods-MyAppSaveliyRadchyck-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LPLivePhotoGenerator/LPLivePhotoGenerator.framework
+${BUILT_PRODUCTS_DIR}/Require/Require.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "051AE3F2-91CA-4E0D-B08D-B8747E274113"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39FBBF48-292A-4840-A552-8C1ACF0EE439"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Preview/Controller/PhotosViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "contentView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0064678B-6837-46B2-888B-04E5253827B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Preview/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "PhotosDataSource"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF514B34-9051-4FAC-AD34-969141B30BE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Preview/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "PhotosDataSource"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B29CA46-2930-46C6-9864-1C7EDA4A4D33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Preview/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(preview:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A98E61E-5420-4A26-8902-E80A152E9C84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Preview/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "init(preview:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C348A5C-B7CF-4D7B-88A1-6E52D2CCEE8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "image(_:didFinishSavingWithError:contextInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52E84588-FC7B-4775-953B-8CBF50BA3203"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosDataSource/PhotosDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86E3D0B1-9A0D-4E7C-B9D7-0A95003DA722"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "PhotosPresenter"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "170036D1-71D5-4AD2-9E03-4009D3ED0020"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "170036D1-71D5-4AD2-9E03-4009D3ED0020 - 3338472d724fa38d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppSaveliyRadchyck.PhotosPresenter.saveImageInLibrary() -&gt; ()"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "170036D1-71D5-4AD2-9E03-4009D3ED0020 - de69fa915bb4b058"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (LPLivePhotoGenerator.LPLivePhoto, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyAppSaveliyRadchyck.PhotosPresenter.saveImageInLibrary() -&gt; ()"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4D674DF-32B7-4945-982F-E537785C0940"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadLivePhotos()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4D674DF-32B7-4945-982F-E537785C0940 - 7b6a60c1d62b651b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppSaveliyRadchyck.PhotosPresenter.loadAnimateImages() -&gt; ()"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "E4D674DF-32B7-4945-982F-E537785C0940 - 319297f0ada07c24"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MyAppSaveliyRadchyck.LivePhotoResponse) -&gt; () in MyAppSaveliyRadchyck.PhotosPresenter.loadAnimateImages() -&gt; ()"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04727C9A-30BF-429D-BDAC-F5F4ABD0F106"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/Model/LivePhotoResponse/LivePhotoResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "init(userData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F858D0CE-BE3B-4499-816F-720BE0E821A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadLivePhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F363D1AE-A70C-4250-9280-934AEF74A5E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Services/DataLivePhotoManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getLivePhotos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AB13BF9-13EA-436D-B3A8-91D5C10CFF1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/Model/LivePhotoResponse/LivePhotoResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(userData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AB13BF9-13EA-436D-B3A8-91D5C10CFF1C - 4a83adf06e5b3625"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppSaveliyRadchyck.LivePhotoResponse.__allocating_init(userData: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; MyAppSaveliyRadchyck.LivePhotoResponse"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/Model/LivePhotoResponse/LivePhotoResponse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "1AB13BF9-13EA-436D-B3A8-91D5C10CFF1C - db51b20cee6dd621"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppSaveliyRadchyck.LivePhotoResponse.init(userData: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; MyAppSaveliyRadchyck.LivePhotoResponse"
+                  moduleName = "MyAppSaveliyRadchyck"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saveliyradchyck/Desktop/MyAppSaveliyRadchyck/MyAppSaveliyRadchyck/Modules/Photos/Model/LivePhotoResponse/LivePhotoResponse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "878A3282-33EC-4779-AFD4-D5C0F943EB6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/Model/LivePhotoResponse/LivePhotoResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(userData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "136AF28C-3EAB-4F76-A1D1-93F0B5711066"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "saveLivePhotoInLibrary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69EE70C0-B6C2-4288-B75C-D3D2F013CE61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppSaveliyRadchyck/Modules/Photos/PhotosPresenter/PhotosPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "saveLivePhotoInLibrary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
