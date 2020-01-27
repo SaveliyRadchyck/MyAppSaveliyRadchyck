@@ -23,6 +23,7 @@ class DataLivePhotoManager {
                 if let error = error {
                     print(error)
                     ShowAllert.showWith(title: "Error", message: "\(error)")
+                    return
                 } else {
                     ShowAllert.showWith(title: "Good", message: "Live photo saved library")
                 }
